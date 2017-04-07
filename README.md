@@ -1,5 +1,5 @@
 ## CCC ONE ESTIMATING SOFTWARE FIX
-### Resolves issue of vehicle diagram images from not displaying in CCC One Estimating Software
+### Resolves issue of vehicle diagram images not displaying in CCC One Estimating Software
 
 ![CCC ONE Images Not Displaying Fix](fix.jpg)
 
