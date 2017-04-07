@@ -1,6 +1,8 @@
 ## CCC ONE ESTIMATING SOFTWARE FIX
 ### Resolves issue of vehicle diagram images from not displaying in CCC One Estimating Software
 
+![CCC ONE Images Not Displaying Fix](fix.jpg)
+
 ```javascript
 
 Batch file that deletes the temporary files from within the temporary file folder for CCC One Estimating.
