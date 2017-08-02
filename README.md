@@ -15,6 +15,8 @@ it with vehicle diagrams not displaying in program. Close CCC One Estimating Sof
 "delccctemp.bat" file, the CCC One Estimating Software temporary files will be deleted. Restart CCC One Estimating
 and you are ready to go.
 
+Another option is to add file to the windows start up and it will delete the temporary files every time the computer starts up.
+
 ```
 
 ```javascript
