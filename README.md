@@ -3,7 +3,6 @@
 
 ![CCC ONE Images Not Displaying Fix](fix.jpg)
 
-```javascript
 
 Batch file that deletes the temporary files from within the temporary file folder for CCC One Estimating.
 
@@ -17,10 +16,6 @@ and you are ready to go.
 
 Another option is to add file to the windows start up and it will delete the temporary files every time the computer starts up.
 
-```
 
-```javascript
 
 File last updated: 03-26-2016
-
-```
